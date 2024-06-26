@@ -12,7 +12,6 @@ ALLOWED_HOSTS = [
     '51.250.108.97',
     '127.0.0.1',
     'localhost',
-    'ktgram258.myftp.biz',
     'konovalexey.ddns.net',
 ]
 
